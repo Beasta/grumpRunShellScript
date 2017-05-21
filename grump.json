@@ -1,0 +1,10 @@
+{
+  "defaultCommand": "runShellScript",
+  "commands": {
+    "runShellScript": {
+      "scriptType": "bash",
+      "scriptPath": "runShellScript.sh",
+      "vars": {}
+    }
+  }
+}
